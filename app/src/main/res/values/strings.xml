@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BreakInterview</string>
+    <string name="made_by_anant_kedia">Made By Anant Kedia</string>
+    <string name="enter_name_of_video">Enter Name Of Video</string>
+    <string name="upload_files_here">Upload Files Here</string>
+    <string name="filename_txt">FileName.txt</string>
+</resources>
